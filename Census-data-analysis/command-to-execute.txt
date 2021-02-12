@@ -1,0 +1,7 @@
+
+
+hadoop jar census-data-analysis-0.0.1-SNAPSHOT.jar elm.census.CensusPopulation /census/input/1991.csv /census/output/1991
+
+hadoop jar census-data-analysis-0.0.1-SNAPSHOT.jar elm.census.CensusPopulation /census/input/2001.csv /census/output/2001
+
+hadoop jar census-data-analysis-0.0.1-SNAPSHOT.jar elm.census.CensusPopulation /census/input/2011.csv /census/output/2011
